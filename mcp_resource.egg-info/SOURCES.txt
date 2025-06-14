@@ -1,0 +1,7 @@
+main.py
+pyproject.toml
+mcp_resource.egg-info/PKG-INFO
+mcp_resource.egg-info/SOURCES.txt
+mcp_resource.egg-info/dependency_links.txt
+mcp_resource.egg-info/requires.txt
+mcp_resource.egg-info/top_level.txt
