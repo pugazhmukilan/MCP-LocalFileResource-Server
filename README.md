@@ -38,7 +38,7 @@ It allows LLMs and MCP clients to **search, read, and batch-process files**—in
 - [PyMuPDF](https://pypi.org/project/PyMuPDF/) for PDF support (`pip install pymupdf`)
 
 ### Installation
-
+# CHALLENGES *****
 # ✨ What Makes This Server Special: The Engineering Behind It ✨
 
 Building this server wasn't just about writing code; it was about solving key challenges to create a tool that is powerful, smart, and safe. Here’s a look at the engineering that went into it.
